@@ -1,6 +1,13 @@
 {
   "version": 1,
-  "project": null,
+  "project": {
+    "catalog": "prod",
+    "initializedAt": "2026-09-19T19:54:37.327473Z",
+    "merchantDisplayName": "Medium",
+    "merchantId": "acct_1PmVPiRNNFnXWmEp",
+    "projectId": "prvproj_7VLU85ueXqLUYPh2Afdw",
+    "projectName": "stripe-project"
+  },
   "providers": {},
   "resources": {}
 }
